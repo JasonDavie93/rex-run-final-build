@@ -1,0 +1,2510 @@
+fileFormatVersion: 2
+guid: e6319252c8004b54d8f8dd4b5dfc5757
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4323307125658677712
+    second: 0CL_CyberLab_TileSet 16x16_0
+  - first:
+      213: 533769918372644520
+    second: 0CL_CyberLab_TileSet 16x16_1
+  - first:
+      213: -8065004530996360408
+    second: 0CL_CyberLab_TileSet 16x16_2
+  - first:
+      213: 3992811926128589031
+    second: 0CL_CyberLab_TileSet 16x16_3
+  - first:
+      213: -1779231853212324065
+    second: 0CL_CyberLab_TileSet 16x16_4
+  - first:
+      213: 5715457361016420516
+    second: 0CL_CyberLab_TileSet 16x16_5
+  - first:
+      213: -4739055966238472360
+    second: 0CL_CyberLab_TileSet 16x16_6
+  - first:
+      213: -6569886005825598194
+    second: 0CL_CyberLab_TileSet 16x16_7
+  - first:
+      213: -6662790304136920609
+    second: 0CL_CyberLab_TileSet 16x16_8
+  - first:
+      213: 618762484711971216
+    second: 0CL_CyberLab_TileSet 16x16_9
+  - first:
+      213: -4506864739835010459
+    second: 0CL_CyberLab_TileSet 16x16_10
+  - first:
+      213: 3394388929338654251
+    second: 0CL_CyberLab_TileSet 16x16_11
+  - first:
+      213: 7523323928270769327
+    second: 0CL_CyberLab_TileSet 16x16_12
+  - first:
+      213: -1009994055905051962
+    second: 0CL_CyberLab_TileSet 16x16_13
+  - first:
+      213: 559758405126797234
+    second: 0CL_CyberLab_TileSet 16x16_14
+  - first:
+      213: -767774644049929076
+    second: 0CL_CyberLab_TileSet 16x16_15
+  - first:
+      213: 6000045094934977683
+    second: 0CL_CyberLab_TileSet 16x16_16
+  - first:
+      213: -6041747345647313450
+    second: 0CL_CyberLab_TileSet 16x16_17
+  - first:
+      213: -2921639436790013502
+    second: 0CL_CyberLab_TileSet 16x16_18
+  - first:
+      213: 1498938588346160841
+    second: 0CL_CyberLab_TileSet 16x16_19
+  - first:
+      213: -4316553410807427870
+    second: 0CL_CyberLab_TileSet 16x16_20
+  - first:
+      213: -923455869241702641
+    second: 0CL_CyberLab_TileSet 16x16_21
+  - first:
+      213: 9051539878571907272
+    second: 0CL_CyberLab_TileSet 16x16_22
+  - first:
+      213: -5317605795760010628
+    second: 0CL_CyberLab_TileSet 16x16_23
+  - first:
+      213: -6651157602881336682
+    second: 0CL_CyberLab_TileSet 16x16_24
+  - first:
+      213: -1090680089728568211
+    second: 0CL_CyberLab_TileSet 16x16_25
+  - first:
+      213: 1989583091128932124
+    second: 0CL_CyberLab_TileSet 16x16_26
+  - first:
+      213: -6702006888424030561
+    second: 0CL_CyberLab_TileSet 16x16_27
+  - first:
+      213: 9105910288327006830
+    second: 0CL_CyberLab_TileSet 16x16_28
+  - first:
+      213: -8688696390394851414
+    second: 0CL_CyberLab_TileSet 16x16_29
+  - first:
+      213: 3587631316759750579
+    second: 0CL_CyberLab_TileSet 16x16_30
+  - first:
+      213: -2600694697835244355
+    second: 0CL_CyberLab_TileSet 16x16_31
+  - first:
+      213: 8564885589978058798
+    second: 0CL_CyberLab_TileSet 16x16_32
+  - first:
+      213: 2100744970531952767
+    second: 0CL_CyberLab_TileSet 16x16_33
+  - first:
+      213: 1267067489865271367
+    second: 0CL_CyberLab_TileSet 16x16_34
+  - first:
+      213: 8917184753310612108
+    second: 0CL_CyberLab_TileSet 16x16_35
+  - first:
+      213: -5149792211590954224
+    second: 0CL_CyberLab_TileSet 16x16_36
+  - first:
+      213: -7111274338033525901
+    second: 0CL_CyberLab_TileSet 16x16_37
+  - first:
+      213: 2688247924213847702
+    second: 0CL_CyberLab_TileSet 16x16_38
+  - first:
+      213: -6159183811339567459
+    second: 0CL_CyberLab_TileSet 16x16_39
+  - first:
+      213: 6112829404019354546
+    second: 0CL_CyberLab_TileSet 16x16_40
+  - first:
+      213: 7154435966888055491
+    second: 0CL_CyberLab_TileSet 16x16_41
+  - first:
+      213: -2664999820072223820
+    second: 0CL_CyberLab_TileSet 16x16_42
+  - first:
+      213: -4571222799227874532
+    second: 0CL_CyberLab_TileSet 16x16_43
+  - first:
+      213: -6706413011617161576
+    second: 0CL_CyberLab_TileSet 16x16_44
+  - first:
+      213: -2424450168732998348
+    second: 0CL_CyberLab_TileSet 16x16_45
+  - first:
+      213: -2040056025241314935
+    second: 0CL_CyberLab_TileSet 16x16_46
+  - first:
+      213: -7324018754810264680
+    second: 0CL_CyberLab_TileSet 16x16_47
+  - first:
+      213: 8797166328939959895
+    second: 0CL_CyberLab_TileSet 16x16_48
+  - first:
+      213: -6662443360073040990
+    second: 0CL_CyberLab_TileSet 16x16_49
+  - first:
+      213: -5141878262573039009
+    second: 0CL_CyberLab_TileSet 16x16_50
+  - first:
+      213: 3401622015597584877
+    second: 0CL_CyberLab_TileSet 16x16_51
+  - first:
+      213: -3717654954026121224
+    second: 0CL_CyberLab_TileSet 16x16_52
+  - first:
+      213: 3192287214764671065
+    second: 0CL_CyberLab_TileSet 16x16_53
+  - first:
+      213: 6321172134247616109
+    second: 0CL_CyberLab_TileSet 16x16_54
+  - first:
+      213: -2865149131779253307
+    second: 0CL_CyberLab_TileSet 16x16_55
+  - first:
+      213: -9070557893316690490
+    second: 0CL_CyberLab_TileSet 16x16_56
+  - first:
+      213: -8310159762511100266
+    second: 0CL_CyberLab_TileSet 16x16_57
+  - first:
+      213: -695707782953695849
+    second: 0CL_CyberLab_TileSet 16x16_58
+  - first:
+      213: -7307142459278317549
+    second: 0CL_CyberLab_TileSet 16x16_59
+  - first:
+      213: 3292995149324599122
+    second: 0CL_CyberLab_TileSet 16x16_60
+  - first:
+      213: -6630927852643220890
+    second: 0CL_CyberLab_TileSet 16x16_61
+  - first:
+      213: -3153028874149435547
+    second: 0CL_CyberLab_TileSet 16x16_62
+  - first:
+      213: 1124088984092834895
+    second: 0CL_CyberLab_TileSet 16x16_63
+  - first:
+      213: 5475757019255739842
+    second: 0CL_CyberLab_TileSet 16x16_64
+  - first:
+      213: 5729134908556735477
+    second: 0CL_CyberLab_TileSet 16x16_65
+  - first:
+      213: 5884320082254903216
+    second: 0CL_CyberLab_TileSet 16x16_66
+  - first:
+      213: 3969663163014243337
+    second: 0CL_CyberLab_TileSet 16x16_67
+  - first:
+      213: 8620059708241917289
+    second: 0CL_CyberLab_TileSet 16x16_68
+  - first:
+      213: 1991517201994291384
+    second: 0CL_CyberLab_TileSet 16x16_69
+  - first:
+      213: 994968404637353903
+    second: 0CL_CyberLab_TileSet 16x16_70
+  - first:
+      213: -3769210833645229447
+    second: 0CL_CyberLab_TileSet 16x16_71
+  - first:
+      213: -1052774200869354496
+    second: 0CL_CyberLab_TileSet 16x16_72
+  - first:
+      213: 955287045225127323
+    second: 0CL_CyberLab_TileSet 16x16_73
+  - first:
+      213: 7086073871380602808
+    second: 0CL_CyberLab_TileSet 16x16_74
+  - first:
+      213: -7338828459813436973
+    second: 0CL_CyberLab_TileSet 16x16_75
+  - first:
+      213: 4467127507429857527
+    second: 0CL_CyberLab_TileSet 16x16_76
+  - first:
+      213: 41651500879634922
+    second: 0CL_CyberLab_TileSet 16x16_77
+  - first:
+      213: 300195393698585526
+    second: 0CL_CyberLab_TileSet 16x16_78
+  - first:
+      213: -3633906561912111832
+    second: 0CL_CyberLab_TileSet 16x16_79
+  - first:
+      213: -468483364851243575
+    second: 0CL_CyberLab_TileSet 16x16_80
+  - first:
+      213: -849416720470927674
+    second: 0CL_CyberLab_TileSet 16x16_81
+  - first:
+      213: 6610473060757661585
+    second: 0CL_CyberLab_TileSet 16x16_82
+  - first:
+      213: 5678734215630855520
+    second: 0CL_CyberLab_TileSet 16x16_83
+  - first:
+      213: 6166183452316177224
+    second: 0CL_CyberLab_TileSet 16x16_84
+  - first:
+      213: 5031163702286602783
+    second: 0CL_CyberLab_TileSet 16x16_85
+  - first:
+      213: 7570802658275769668
+    second: 0CL_CyberLab_TileSet 16x16_86
+  - first:
+      213: 7940529013602008966
+    second: 0CL_CyberLab_TileSet 16x16_87
+  - first:
+      213: 5714934436312963388
+    second: 0CL_CyberLab_TileSet 16x16_88
+  - first:
+      213: -1693402230795630764
+    second: 0CL_CyberLab_TileSet 16x16_89
+  - first:
+      213: 1327578634290276793
+    second: 0CL_CyberLab_TileSet 16x16_90
+  - first:
+      213: 8082300023164692895
+    second: 0CL_CyberLab_TileSet 16x16_91
+  - first:
+      213: 4180412751728654041
+    second: 0CL_CyberLab_TileSet 16x16_92
+  - first:
+      213: -4181657649027443958
+    second: 0CL_CyberLab_TileSet 16x16_93
+  - first:
+      213: 3669199462598517124
+    second: 0CL_CyberLab_TileSet 16x16_94
+  - first:
+      213: 8175604260556266037
+    second: 0CL_CyberLab_TileSet 16x16_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e033833178004c0800000000000000
+      internalID: -4323307125658677712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60468a9e4586700800000000000000
+      internalID: 533769918372644520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bcb0afb19531090800000000000000
+      internalID: -8065004530996360408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e876dfba41596730800000000000000
+      internalID: 3992811926128589031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f28386e06ee47e0800000000000000
+      internalID: -1779231853212324065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a876442032615f40800000000000000
+      internalID: 5715457361016420516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85709a115bd7b3eb0800000000000000
+      internalID: -4739055966238472360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d84f78c7313d4a0800000000000000
+      internalID: -6569886005825598194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18005f4830983a0800000000000000
+      internalID: -6662790304136920609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09958959339469800800000000000000
+      internalID: 618762484711971216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562a663c5666471c0800000000000000
+      internalID: -4506864739835010459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ebfba3fba4b1f20800000000000000
+      internalID: 3394388929338654251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac86c2a047386860800000000000000
+      internalID: 7523323928270769327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caf580e1c7cbf1f0800000000000000
+      internalID: -1009994055905051962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b73f91cd49a4c700800000000000000
+      internalID: 559758405126797234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c1ad177015855f0800000000000000
+      internalID: -767774644049929076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c9ce76931744350800000000000000
+      internalID: 6000045094934977683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd5808bcc6672ca0800000000000000
+      internalID: -6041747345647313450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1eb5869604477d0800000000000000
+      internalID: -2921639436790013502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c69f7254bc4dc410800000000000000
+      internalID: 1498938588346160841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec82defa858814c0800000000000000
+      internalID: -4316553410807427870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07491497c93f23f0800000000000000
+      internalID: -923455869241702641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c89f8cff878d9d70800000000000000
+      internalID: 9051539878571907272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a8a20e3b11436b0800000000000000
+      internalID: -5317605795760010628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a8e17466752b3a0800000000000000
+      internalID: -6651157602881336682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d643320bc302dd0f0800000000000000
+      internalID: -1090680089728568211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171dd5b74b6c9b10800000000000000
+      internalID: 1989583091128932124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb3456e30bdf2a0800000000000000
+      internalID: -6702006888424030561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a5e4c7921be5e70800000000000000
+      internalID: 9105910288327006830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafcb49eaac8b6780800000000000000
+      internalID: -8688696390394851414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7288caca3d9c130800000000000000
+      internalID: 3587631316759750579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4d94e83f978ebd0800000000000000
+      internalID: -2600694697835244355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20118cb0169cd670800000000000000
+      internalID: 8564885589978058798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78de34ab68572d10800000000000000
+      internalID: 2100744970531952767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7488dd73b27859110800000000000000
+      internalID: 1267067489865271367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8abb91b94430cb70800000000000000
+      internalID: 8917184753310612108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0134c01b4434888b0800000000000000
+      internalID: -5149792211590954224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b192daaadaf4d90800000000000000
+      internalID: -7111274338033525901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69692fe7e339e4520800000000000000
+      internalID: 2688247924213847702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eb4c2d4fe268aa0800000000000000
+      internalID: -6159183811339567459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbe22fa4f125d450800000000000000
+      internalID: 6112829404019354546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c214a62b99a94360800000000000000
+      internalID: 7154435966888055491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb7d1e88c4040bd0800000000000000
+      internalID: -2664999820072223820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131bde5511cf80c0800000000000000
+      internalID: -4571222799227874532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e5085e5e80ee2a0800000000000000
+      internalID: -6706413011617161576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a805ba6f9a5ed0800000000000000
+      internalID: -2424450168732998348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989989d8ad340b3e0800000000000000
+      internalID: -2040056025241314935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8934c3f2fbbdb5a90800000000000000
+      internalID: -7324018754810264680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565e72ba20d51a70800000000000000
+      internalID: 8797166328939959895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abbfaa201f3a83a0800000000000000
+      internalID: -6662443360073040990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52080986f064a8b0800000000000000
+      internalID: -5141878262573039009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1a7db533df43f20800000000000000
+      internalID: 3401622015597584877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f74dcb248c386cc0800000000000000
+      internalID: -3717654954026121224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c111fe484d4c20800000000000000
+      internalID: 3192287214764671065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e4de9a09059b750800000000000000
+      internalID: 6321172134247616109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb57cb7b02fc38d0800000000000000
+      internalID: -2865149131779253307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd3e3667a7ee1280800000000000000
+      internalID: -9070557893316690490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69608c0a9b16cac80800000000000000
+      internalID: -8310159762511100266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795029915795856f0800000000000000
+      internalID: -695707782953695849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318aa8fe5a0d79a90800000000000000
+      internalID: -7307142459278317549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb39a24a113bd20800000000000000
+      internalID: 3292995149324599122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66205fb00463af3a0800000000000000
+      internalID: -6630927852643220890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e5c5c1f03e34d0800000000000000
+      internalID: -3153028874149435547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c78c0b9f0999f00800000000000000
+      internalID: 1124088984092834895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c517194ffbcdfb40800000000000000
+      internalID: 5475757019255739842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f370d658d9f18f40800000000000000
+      internalID: 5729134908556735477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7308730fd49a150800000000000000
+      internalID: 5884320082254903216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ea655d93171730800000000000000
+      internalID: 3969663163014243337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ba6432aa90a770800000000000000
+      internalID: 8620059708241917289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b813fcf75a43ab10800000000000000
+      internalID: 1991517201994291384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa785211e76decd00800000000000000
+      internalID: 994968404637353903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa50987b211bbc0800000000000000
+      internalID: -3769210833645229447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0048c70317bc361f0800000000000000
+      internalID: -1052774200869354496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d1d2d918cd14d00800000000000000
+      internalID: 955287045225127323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf51d374aac65260800000000000000
+      internalID: 7086073871380602808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d10b49066e372a90800000000000000
+      internalID: -7338828459813436973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f89bb6dccc6efd30800000000000000
+      internalID: 4467127507429857527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1ea42c1d9f39000800000000000000
+      internalID: 41651500879634922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbdc9cbe128a2400800000000000000
+      internalID: 300195393698585526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d74463c35c19dc0800000000000000
+      internalID: -3633906561912111832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5acde9cdc9f79f0800000000000000
+      internalID: -468483364851243575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c69d0e3ef34634f0800000000000000
+      internalID: -849416720470927674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197efb7993e1dbb50800000000000000
+      internalID: 6610473060757661585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d98809eaaeece40800000000000000
+      internalID: 5678734215630855520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84392371e2fa29550800000000000000
+      internalID: 6166183452316177224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12d1a12bb842d540800000000000000
+      internalID: 5031163702286602783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d3c17e7e4e01960800000000000000
+      internalID: 7570802658275769668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3e60311d623e60800000000000000
+      internalID: 7940529013602008966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39d41f37968f4f40800000000000000
+      internalID: 5714934436312963388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578293a4a3df78e0800000000000000
+      internalID: -1693402230795630764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9254cebb18c6210800000000000000
+      internalID: 1327578634290276793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99ecd89c091a2070800000000000000
+      internalID: 8082300023164692895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6bc49bf3fc30a30800000000000000
+      internalID: 4180412751728654041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a039c690684c7f5c0800000000000000
+      internalID: -4181657649027443958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4812d32987d9be230800000000000000
+      internalID: 3669199462598517124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0CL_CyberLab_TileSet 16x16_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a50ae32c4957170800000000000000
+      internalID: 8175604260556266037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d45798cc11611564494424042b8a209a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      0CL_CyberLab_TileSet 16x16_43: -4571222799227874532
+      0CL_CyberLab_TileSet 16x16_80: -468483364851243575
+      0CL_CyberLab_TileSet 16x16_68: 8620059708241917289
+      0CL_CyberLab_TileSet 16x16_49: -6662443360073040990
+      0CL_CyberLab_TileSet 16x16_40: 6112829404019354546
+      0CL_CyberLab_TileSet 16x16_31: -2600694697835244355
+      0CL_CyberLab_TileSet 16x16_56: -9070557893316690490
+      0CL_CyberLab_TileSet 16x16_3: 3992811926128589031
+      0CL_CyberLab_TileSet 16x16_34: 1267067489865271367
+      0CL_CyberLab_TileSet 16x16_71: -3769210833645229447
+      0CL_CyberLab_TileSet 16x16_0: -4323307125658677712
+      0CL_CyberLab_TileSet 16x16_62: -3153028874149435547
+      0CL_CyberLab_TileSet 16x16_73: 955287045225127323
+      0CL_CyberLab_TileSet 16x16_33: 2100744970531952767
+      0CL_CyberLab_TileSet 16x16_74: 7086073871380602808
+      0CL_CyberLab_TileSet 16x16_83: 5678734215630855520
+      0CL_CyberLab_TileSet 16x16_2: -8065004530996360408
+      0CL_CyberLab_TileSet 16x16_27: -6702006888424030561
+      0CL_CyberLab_TileSet 16x16_48: 8797166328939959895
+      0CL_CyberLab_TileSet 16x16_54: 6321172134247616109
+      0CL_CyberLab_TileSet 16x16_66: 5884320082254903216
+      0CL_CyberLab_TileSet 16x16_67: 3969663163014243337
+      0CL_CyberLab_TileSet 16x16_57: -8310159762511100266
+      0CL_CyberLab_TileSet 16x16_26: 1989583091128932124
+      0CL_CyberLab_TileSet 16x16_84: 6166183452316177224
+      0CL_CyberLab_TileSet 16x16_38: 2688247924213847702
+      0CL_CyberLab_TileSet 16x16_55: -2865149131779253307
+      0CL_CyberLab_TileSet 16x16_10: -4506864739835010459
+      0CL_CyberLab_TileSet 16x16_77: 41651500879634922
+      0CL_CyberLab_TileSet 16x16_61: -6630927852643220890
+      0CL_CyberLab_TileSet 16x16_47: -7324018754810264680
+      0CL_CyberLab_TileSet 16x16_19: 1498938588346160841
+      0CL_CyberLab_TileSet 16x16_21: -923455869241702641
+      0CL_CyberLab_TileSet 16x16_1: 533769918372644520
+      0CL_CyberLab_TileSet 16x16_53: 3192287214764671065
+      0CL_CyberLab_TileSet 16x16_13: -1009994055905051962
+      0CL_CyberLab_TileSet 16x16_25: -1090680089728568211
+      0CL_CyberLab_TileSet 16x16_30: 3587631316759750579
+      0CL_CyberLab_TileSet 16x16_12: 7523323928270769327
+      0CL_CyberLab_TileSet 16x16_95: 8175604260556266037
+      0CL_CyberLab_TileSet 16x16_82: 6610473060757661585
+      0CL_CyberLab_TileSet 16x16_39: -6159183811339567459
+      0CL_CyberLab_TileSet 16x16_11: 3394388929338654251
+      0CL_CyberLab_TileSet 16x16_60: 3292995149324599122
+      0CL_CyberLab_TileSet 16x16_24: -6651157602881336682
+      0CL_CyberLab_TileSet 16x16_94: 3669199462598517124
+      0CL_CyberLab_TileSet 16x16_6: -4739055966238472360
+      0CL_CyberLab_TileSet 16x16_22: 9051539878571907272
+      0CL_CyberLab_TileSet 16x16_16: 6000045094934977683
+      0CL_CyberLab_TileSet 16x16_93: -4181657649027443958
+      0CL_CyberLab_TileSet 16x16_72: -1052774200869354496
+      0CL_CyberLab_TileSet 16x16_85: 5031163702286602783
+      0CL_CyberLab_TileSet 16x16_51: 3401622015597584877
+      0CL_CyberLab_TileSet 16x16_79: -3633906561912111832
+      0CL_CyberLab_TileSet 16x16_65: 5729134908556735477
+      0CL_CyberLab_TileSet 16x16_89: -1693402230795630764
+      0CL_CyberLab_TileSet 16x16_64: 5475757019255739842
+      0CL_CyberLab_TileSet 16x16_70: 994968404637353903
+      0CL_CyberLab_TileSet 16x16_7: -6569886005825598194
+      0CL_CyberLab_TileSet 16x16_69: 1991517201994291384
+      0CL_CyberLab_TileSet 16x16_17: -6041747345647313450
+      0CL_CyberLab_TileSet 16x16_46: -2040056025241314935
+      0CL_CyberLab_TileSet 16x16_36: -5149792211590954224
+      0CL_CyberLab_TileSet 16x16_5: 5715457361016420516
+      0CL_CyberLab_TileSet 16x16_91: 8082300023164692895
+      0CL_CyberLab_TileSet 16x16_9: 618762484711971216
+      0CL_CyberLab_TileSet 16x16_78: 300195393698585526
+      0CL_CyberLab_TileSet 16x16_58: -695707782953695849
+      0CL_CyberLab_TileSet 16x16_59: -7307142459278317549
+      0CL_CyberLab_TileSet 16x16_37: -7111274338033525901
+      0CL_CyberLab_TileSet 16x16_52: -3717654954026121224
+      0CL_CyberLab_TileSet 16x16_88: 5714934436312963388
+      0CL_CyberLab_TileSet 16x16_4: -1779231853212324065
+      0CL_CyberLab_TileSet 16x16_8: -6662790304136920609
+      0CL_CyberLab_TileSet 16x16_14: 559758405126797234
+      0CL_CyberLab_TileSet 16x16_29: -8688696390394851414
+      0CL_CyberLab_TileSet 16x16_41: 7154435966888055491
+      0CL_CyberLab_TileSet 16x16_18: -2921639436790013502
+      0CL_CyberLab_TileSet 16x16_32: 8564885589978058798
+      0CL_CyberLab_TileSet 16x16_76: 4467127507429857527
+      0CL_CyberLab_TileSet 16x16_87: 7940529013602008966
+      0CL_CyberLab_TileSet 16x16_23: -5317605795760010628
+      0CL_CyberLab_TileSet 16x16_90: 1327578634290276793
+      0CL_CyberLab_TileSet 16x16_28: 9105910288327006830
+      0CL_CyberLab_TileSet 16x16_75: -7338828459813436973
+      0CL_CyberLab_TileSet 16x16_35: 8917184753310612108
+      0CL_CyberLab_TileSet 16x16_44: -6706413011617161576
+      0CL_CyberLab_TileSet 16x16_86: 7570802658275769668
+      0CL_CyberLab_TileSet 16x16_63: 1124088984092834895
+      0CL_CyberLab_TileSet 16x16_15: -767774644049929076
+      0CL_CyberLab_TileSet 16x16_81: -849416720470927674
+      0CL_CyberLab_TileSet 16x16_92: 4180412751728654041
+      0CL_CyberLab_TileSet 16x16_50: -5141878262573039009
+      0CL_CyberLab_TileSet 16x16_42: -2664999820072223820
+      0CL_CyberLab_TileSet 16x16_45: -2424450168732998348
+      0CL_CyberLab_TileSet 16x16_20: -4316553410807427870
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

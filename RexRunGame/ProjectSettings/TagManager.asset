@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ladder
+  - Enemy
+  - PickUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3134486893
+    locked: 0
+  - name: Scenerey
+    uniqueID: 1493760585
+    locked: 0
+  - name: Environment
+    uniqueID: 855284765
+    locked: 0
+  - name: Playermap
+    uniqueID: 3088597053
+    locked: 0
+  - name: Lights
+    uniqueID: 3248339405
+    locked: 0
+  - name: Props
+    uniqueID: 3080240061
+    locked: 0
+  - name: Ladders
+    uniqueID: 3676781411
+    locked: 0
+  - name: Particles
+    uniqueID: 4288551563
+    locked: 0
+  - name: Player
+    uniqueID: 400730091
+    locked: 0
+  - name: Enemies
+    uniqueID: 2252447291
+    locked: 0
+  - name: Pickups
+    uniqueID: 1779606289
+    locked: 0
+  - name: UI
+    uniqueID: 871849611
+    locked: 0
