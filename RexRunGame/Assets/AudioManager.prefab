@@ -27,6 +27,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -86,9 +87,16 @@ MonoBehaviour:
     pitch: 1
     loop: 1
     source: {fileID: 0}
+  - name: dinoDeath
+    clip: {fileID: 8300000, guid: 8995addb7d6621a4eb06d4cb18197780, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
   - name: ambientSounds3
     clip: {fileID: 8300000, guid: b465a526226fe524180118fb71b6f3e0, type: 3}
     volume: 0.7
     pitch: 1
     loop: 1
     source: {fileID: 0}
+  currentScene: 0

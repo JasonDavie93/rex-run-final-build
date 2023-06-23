@@ -17,4 +17,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EndLevel.unity
     guid: 08be4781d6957b045a3ae6656ea04312
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 2a7e9b847451ec347bc6a9e096c7e519
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 31ab82074fa70c24193c39641914ff75
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d32e1528fffd2654586c936f8d108f58, type: 2}

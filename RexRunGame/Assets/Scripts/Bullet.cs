@@ -19,17 +19,27 @@ public class Bullet : MonoBehaviour
 	void OnTriggerEnter2D(Collider2D hitInfo)
 	{
         //Finds enemy component
-        EnemyScript enemy = hitInfo.GetComponent<EnemyScript>();
-        if (enemy != null)
+        EnemyScript enemySoldier = hitInfo.GetComponent<EnemyScript>();
+        if (enemySoldier != null)
 		{
             //Calls TakeDamage function from EnemyScript
-            enemy.TakeDamage(damage);
+            enemySoldier.TakeDamage(damage);
             //Destroys Projectile upon collision
             Destroy(gameObject);
         }
-        
+
+        //Finds enemy component
+        DinoScript enemyDino = hitInfo.GetComponent<DinoScript>();
+        if (enemyDino != null)
+        {
+            //Calls TakeDamage function from EnemyScript
+            enemyDino.TakeDamage(damage);
+            //Destroys Projectile upon collision
+            Destroy(gameObject);
+        }
+
+    }
 
 
-	}
 
 }

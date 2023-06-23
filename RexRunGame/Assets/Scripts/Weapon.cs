@@ -37,7 +37,7 @@ public class Weapon : MonoBehaviour
 
             //Spawns bullet pre fab from fire point location at tip of players gun barrel
             Instantiate(bulletPrefab, firepoint.position, firepoint.rotation);
-            FindObjectOfType<AudioManager>().Play("gunFire");
+            FindObjectOfType<AudioManager>().Play("gunShot");
 
         }
         else

@@ -24,11 +24,14 @@ public class cameraFollowScript : MonoBehaviour
         cameraRatio = (xMax + camOrthsize) / 2.0f;
     }
 
-	// Update is called once per frame
-	void FixedUpdate()
+    // Update is called once per frame
+    void FixedUpdate()
     {
-        camY = Mathf.Clamp(followTransform.position.y, yMin + camOrthsize, yMax - camOrthsize);
-        camX = Mathf.Clamp(followTransform.position.x, xMin + cameraRatio, xMax - cameraRatio);
-        this.transform.position = new Vector3(followTransform.position.x, followTransform.position.y, this.transform.position.z);
+        if (followTransform != null)
+        {
+            camY = Mathf.Clamp(followTransform.position.y, yMin + camOrthsize, yMax - camOrthsize);
+            camX = Mathf.Clamp(followTransform.position.x, xMin + cameraRatio, xMax - cameraRatio);
+            this.transform.position = new Vector3(followTransform.position.x, followTransform.position.y, this.transform.position.z);
+        }
     }
 }

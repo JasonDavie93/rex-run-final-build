@@ -25,7 +25,7 @@ public class AudioManager : MonoBehaviour
 	 void Start()
 	{
         currentScene = SceneManager.GetActiveScene().buildIndex;
-        if (currentScene == 0 || currentScene == 3)
+        if (currentScene == 0 || currentScene == 4)
         {
             FindObjectOfType<AudioManager>().Play("ambientSounds");
             FindObjectOfType<AudioManager>().Play("ambientSounds2");
@@ -33,7 +33,7 @@ public class AudioManager : MonoBehaviour
             FindObjectOfType<AudioManager>().Play("ambientSounds4");
         }
         else
-		{
+        {
             FindObjectOfType<AudioManager>().Play("ambientSounds");
             FindObjectOfType<AudioManager>().Play("ambientSounds2");
             FindObjectOfType<AudioManager>().Play("ambientSounds3");

@@ -19,6 +19,7 @@ public class EnemyPatrol : MonoBehaviour
     private bool mustShoot; //Decides if sprite should shoot
     public LayerMask groundLayer; //Ground layer reference
     public LayerMask playerLayer; //Player Layer Reference
+    public LayerMask enemyLayer;
     public Animator animator;
     public Collider2D bodyCollider;
     public float bulletSpeed = 15f;
@@ -60,7 +61,7 @@ public class EnemyPatrol : MonoBehaviour
 	void Patrol()
 	{
         //will call the flip function the overlap circle 
-        if(mustTurn || bodyCollider.IsTouchingLayers(groundLayer))
+        if(mustTurn || bodyCollider.IsTouchingLayers(groundLayer) || bodyCollider.IsTouchingLayers(enemyLayer))
 		{
             Flip();
 		}
@@ -88,7 +89,7 @@ public class EnemyPatrol : MonoBehaviour
             animator.SetBool("isShooting", true);
             //Spawns bullet pre fab from fire point location at tip of players gun barrel
             GameObject newBullet = Instantiate(bulletPrefab, firepoint.position, firepoint.rotation);
-            FindObjectOfType<AudioManager>().Play("gunFire");
+            FindObjectOfType<AudioManager>().Play("gunShot");
             
             //Sets enemy default direction to right
             Vector2 direction = Vector2.right;

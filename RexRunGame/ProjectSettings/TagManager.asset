@@ -7,6 +7,9 @@ TagManager:
   - ladder
   - Enemy
   - PickUp
+  - Ground
+  - Spike Trap
+  - Attack
   layers:
   - Default
   - TransparentFX
@@ -15,7 +18,7 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
+  - Enemy
   - 
   - 
   - 

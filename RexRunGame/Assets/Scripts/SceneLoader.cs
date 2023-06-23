@@ -7,17 +7,24 @@ public class SceneLoader : MonoBehaviour
     
    public void PlayGame()
     {
+        Cursor.visible = false;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+       
     }
 
 
-    public void Respawn()
-	{
-       
-	}
+    public void QuitGame()
+    {
+        if (Input.GetButtonDown("Cancel"))
+        {
+            SceneManager.LoadScene(0);
+        }
+    }
     public void MainMenu()
     {
+        
         SceneManager.LoadScene(0);
+        
     }
 
     public void LoadSceneByBuildIndex(int buildIndex)

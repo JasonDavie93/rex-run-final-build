@@ -5,19 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class loadScene : MonoBehaviour
 {
-
-	public string targetScene;
-
-
-	public void Play()
-	{
-		SceneManager.LoadScene("Level2");
-	}
-
-	public void Exit()
-	{
-		Application.Quit();
-	}
+	public int currentScene;
+	
 	private void OnTriggerEnter2D(Collider2D collision)
 	{
 		//We overlapped
@@ -25,10 +14,19 @@ public class loadScene : MonoBehaviour
 		if (collision.CompareTag("Player"))
 		{
 			//It is the player!
+			
+			currentScene = SceneManager.GetActiveScene().buildIndex;
+			if (currentScene == 3)
+            {
+				SceneManager.LoadScene(5);
+				Cursor.visible = true;
+			}
 
-
-			//Change Scene
-			SceneManager.LoadScene(targetScene);
+            else
+            {
+				//Change Scene
+				SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+			}
 		}
 	}
 }
