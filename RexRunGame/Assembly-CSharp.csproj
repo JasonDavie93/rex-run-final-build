@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\playerMovement.cs" />
+    <Compile Include="Assets\Scripts\DinoScript.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\helloWorld.cs" />
     <Compile Include="Assets\Scripts\EnemyBullet.cs" />
@@ -64,6 +65,7 @@
     <Compile Include="Assets\Scripts\ArmourPickUpSmall.cs" />
     <Compile Include="Assets\Scripts\Sound.cs" />
     <Compile Include="Assets\Scripts\EnemyPatrol.cs" />
+    <Compile Include="Assets\Scripts\DinoPatrolScript.cs" />
     <Compile Include="Assets\Scripts\EnemyScript.cs" />
     <Compile Include="Assets\Scripts\HealthPickUpMedium.cs" />
     <Compile Include="Assets\Scripts\cameraFollowScript.cs" />
@@ -74,6 +76,7 @@
     <Compile Include="Assets\Scripts\playerMovementTouch.cs" />
     <Compile Include="Assets\Scripts\ArmourPickupMedium.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
+    <Compile Include="Assets\Scripts\movingPlatformScript.cs" />
     <Compile Include="Assets\Scripts\staticEnemyAI.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\Scripts\RespawnScript.cs" />
@@ -82,14 +85,11 @@
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\ArmourBar.cs" />
     <Compile Include="Assets\Scripts\heldButton.cs" />
-    <Compile Include="Assets\Scripts\movingPlatformScript.cs" />
-    <Compile Include="Assets\Scripts\DinoPatrolScript.cs" />
-    <Compile Include="Assets\Scripts\DinoScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\Scenes\TilePalettes\Palettes\parallax_demon_woods_pack\license.txt" />
+    <None Include="Assets\Palettes\TilePalettes\Palettes\parallax_demon_woods_pack\license.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
@@ -110,7 +110,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-    <None Include="Assets\Scenes\TilePalettes\Environment\Galacti-Chrons Sci-Fi Warehouse Pack\Galacti-Chrons Sci-Fi Warehouse Pack\js\plugins\yep_dirs.txt" />
+    <None Include="Assets\Palettes\TilePalettes\Environment\Galacti-Chrons Sci-Fi Warehouse Pack\Galacti-Chrons Sci-Fi Warehouse Pack\js\plugins\yep_dirs.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>

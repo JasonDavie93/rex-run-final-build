@@ -16,7 +16,7 @@ public class DinoPatrolScript : MonoBehaviour
     private bool mustAttack; //Decides if sprite should shoot
     public LayerMask groundLayer; //Ground layer reference
     public LayerMask playerLayer; //Player Layer Reference
-    public LayerMask enemyLayer;
+    public LayerMask enemyLayer;//Enemy Layer Reference
     public Animator animator;
     public Collider2D bodyCollider;
     public float attackSpeed = 50f;
@@ -44,7 +44,7 @@ public class DinoPatrolScript : MonoBehaviour
 
         if (mustAttack)
         {
-            Attack();
+            Attack(); //Calls attack function
         }
     }
     private void FixedUpdate()
@@ -63,7 +63,7 @@ public class DinoPatrolScript : MonoBehaviour
         if (mustTurn || bodyCollider.IsTouchingLayers(groundLayer) || bodyCollider.IsTouchingLayers(enemyLayer))
         
         {
-            Flip();
+            Flip(); //Calls flip function
         }
         rb.velocity = new Vector2(walkSpeed * Time.fixedDeltaTime, rb.velocity.y);
         animator.SetFloat("speed", Mathf.Abs(walkSpeed));

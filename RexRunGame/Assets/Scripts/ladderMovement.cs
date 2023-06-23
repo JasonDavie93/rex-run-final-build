@@ -16,32 +16,35 @@ public class ladderMovement : MonoBehaviour
 	//Update is called once per frame
 	void Update()
 	{
-
+		// This method is empty in the provided code
+		// Update is not being used for any specific functionality here
 	}
 
 	private void FixedUpdate()
 	{
+		
+	
 		if (isLadder && Mathf.Abs(vertical) > 0f)
 		{
-			isClimbing = true;
+			isClimbing = true;// Player is next to a ladder and input is detected, set climbing flag to true
 		}
 
 		if (isClimbing)
 		{
-			rb.gravityScale = 0f;
-			rb.velocity = new Vector2(rb.velocity.x, vertical * speed);
+			rb.gravityScale = 0f;// Disable gravity for the player while climbing
+			rb.velocity = new Vector2(rb.velocity.x, vertical * speed);// Set the vertical velocity of the player for climbing
 		}
 		else
 		{
-			rb.gravityScale = 1f;
+			rb.gravityScale = 1f;// Enable gravity for the player when not climbing
 		}
-		vertical = Input.GetAxis("Vertical");
+		vertical = Input.GetAxis("Vertical"); // Get the vertical input axis value 
 	}
 	private void OnTriggerEnter2D(Collider2D collision)
 	{
 		if (collision.CompareTag("ladder"))
 		{
-			isLadder = true;
+			isLadder = true; // Player is in contact with a ladder
 		}
 		
 	}
@@ -51,8 +54,8 @@ public class ladderMovement : MonoBehaviour
 	
 		if (collision.CompareTag("ladder"))
 		{
-			isLadder= false;
-			isClimbing = false;
+			isLadder= false;  // Player is no longer in contact with a ladder
+			isClimbing = false; // Reset the climbing flag
 		}
 
 	}
@@ -68,6 +71,6 @@ public class ladderMovement : MonoBehaviour
 	{
 		Debug.Log("Move Down");
 		// physicsBody.AddForce(Vector2.down * moveSpeed);
-		vertical = -1;
+		vertical = -1; //Set the vertical input to move down
 	}
 }

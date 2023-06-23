@@ -13,8 +13,8 @@ public class PlayerHealth : MonoBehaviour
     public int maxHealth = 100;
     public int currentArmour;
     public int maxArmour = 125;
-    public HealthBar healthBar1;
-    public ArmourBar armourBar;
+    public HealthBar healthBar1; // Reference to the health bar UI
+    public ArmourBar armourBar;// Reference to the armour bar UI
     public float delay = 3f;
     public int respawnScene;
     public GameObject Player;
@@ -23,9 +23,11 @@ public class PlayerHealth : MonoBehaviour
 
    
 
-    public Image[] lives;
-    public int livesRemaining;
-    
+    public Image[] lives;// Array of UI images representing player lives
+    public int livesRemaining;// Number of remaining lives
+     
+    // Explanation of livesRemaining:
+
     //4 lives - 4 images (0,1,2,3)
     //3 lives - 3 images (0,1,2,[3])
     //2 lives - 2 image (0,1,[2],[3])
@@ -42,9 +44,10 @@ public class PlayerHealth : MonoBehaviour
     {
         for (int i = 0; i < lives.Length; i++)
         {
-            lives[i].enabled = (i < livesRemaining);
+            lives[i].enabled = (i < livesRemaining);// Enable or disable UI images based on remaining lives
         }
     }
+    
 
     public void LoseLife()
     {
@@ -74,17 +77,17 @@ public class PlayerHealth : MonoBehaviour
     private void GameOver()
     {
         
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(4);// Load game over scene
         Cursor.visible = true;
-        PlayerPrefs.SetInt("LivesRemaining", 4);
+        PlayerPrefs.SetInt("LivesRemaining", 4);// Reset lives remaining to 4
         PlayerPrefs.Save();
     }
 
     public void RespawnScene()
     {
         respawnScene = SceneManager.GetActiveScene().buildIndex;
-        SceneManager.LoadScene(respawnScene);
-        
+        SceneManager.LoadScene(respawnScene);// Reload the current scene
+
     }
 
     
@@ -92,12 +95,12 @@ public class PlayerHealth : MonoBehaviour
     void Awake()
     {
 
-        currentHealth = maxHealth;
-        currentArmour = 0;
-        healthBar1.SetMaxHealth(maxHealth);
-        armourBar.SetArmour(currentArmour);
-        livesRemaining = 4;
-   
+        currentHealth = maxHealth;// Set initial health to maxHealth
+        currentArmour = 0;// Set initial armour to 0
+        healthBar1.SetMaxHealth(maxHealth);// Set the max value of the health ba
+        armourBar.SetArmour(currentArmour);// Set the initial value of the armour bar
+        livesRemaining = 4;// Set initial lives remaining to 4
+
     }
 
  
@@ -112,6 +115,7 @@ public class PlayerHealth : MonoBehaviour
         
         if (currentArmour >0)
 		{
+            // Subtract damage from total armour
             currentArmour -= damage;
             armourBar.SetArmour(currentArmour);
         }
